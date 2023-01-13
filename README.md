@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Jake-Marillion
+- 👋 Hi, I’m Jake Marillion
 - 👀 I’m interested in iOS Applications Development!
-- 🌱 I’m currently learning UIKit and SwiftUI
+- 🌱 I’m currently learning UIKit and SwiftUI in a coding bootcamp at Devmountain!
